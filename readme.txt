@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 git is easy
 git is not easy
 git is OK
+creating a new branch is quick
